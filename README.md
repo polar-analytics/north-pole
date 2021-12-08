@@ -25,7 +25,7 @@ You will find a couple of dimensions that are used to characterise the data. Spe
 |`customer_total_spent`|how much a customer spent in $US during their lifetime|
 |`customer_first_order_date`|timestamp indicating when the customer made their first order. The timestamp is in 'UTC'|
 
-The tenant_id is the id for the brand. We included data for 10 different brands, with products ranging from cosmetics to lifestyle clothing.
+The tenant_id is the id for the brand. We included data for 5 different brands, with products ranging from cosmetics to lifestyle clothing.
  
 ## Deliverables
 Please construct a python program that, when run, will do the following:
@@ -40,7 +40,7 @@ Along with the program, please submit your analysis in a jupyter notebook, refle
 * what trade-offs these choices reflect, and
 * what you might consider doing were you to spend more time on the challenge.
 
-Please, push your work to a private git repo, and share it with charbel@polaranalytics.co
+Please, push your work to a private git repo, and share it with charbelrseif
 
 [IMPORTANT] It should contain a README file explaining how to run your code.
 
