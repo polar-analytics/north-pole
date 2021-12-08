@@ -1,4 +1,6 @@
-# Polar Analytics Data Science Interview
+<p align="center"><a href="https://github.com/polar-analytics/north-pole" target="blank"><img src="./.github/assets/Logo White.png" width="80" alt="Polar Analytics logo" /></a></p>
+<h1 align="center">Polar Analytics's north pole </h1>
+<p align="center">Take home test to <b>join us</b> 💜</p>
 
 Welcome to our Data Science take-home exercise!
 
