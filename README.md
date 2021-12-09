@@ -29,7 +29,7 @@ You will find a couple of dimensions that are used to characterise the data. Spe
 |`customer_total_spent`|how much a customer spent in $US during their lifetime|
 |`customer_first_order_date`|timestamp indicating when the customer made their first order. The timestamp is in 'UTC'|
 
-The tenant_id is the id for the brand. We included data for 5 different brands, with products ranging from cosmetics to lifestyle clothing.
+The tenant_id is the id of the brand. We included data for 5 different brands, with products ranging from cosmetics to lifestyle clothing.
  
 ## Output
 Please build a python program that, when run, will do the following:
