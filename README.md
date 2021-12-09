@@ -8,7 +8,7 @@ Welcome to our Data Science take-home exercise!
 
 The problem you will work on as part of this exercise is based on a real Data Science project at Polar ANalytics. The dataset is representative, though simulated. Note that the data is from real life customers and we are lucky that it's usually very clean. 
 
-In completing this work, you should feel free to work in whatever way is typical for you and use whatever resources you would have regular access to as a member of our team. If you have any follow-up questions, feel free to send a message to charbel@polaranalytics.co
+In completing this work, you should feel free to work in whatever way is typical for you and use whatever resources you would have regular access to as a member of our team. If you have any follow-up questions, feel free to send a message to charbel@polaranalytics.co you won't be penalized for that.
 
 ## Data Description
 In `data.csv` (available [here](https://drive.google.com/file/d/1gc7FrZ--HS20dD0DC6AfH1mh--kSp3V6/view?usp=sharing)) you will find data extracted from our main sales table. The table contains data from orders (order_id) and refunds (refund_id). 
@@ -31,10 +31,10 @@ You will find a couple of dimensions that are used to characterise the data. Spe
 
 The tenant_id is the id for the brand. We included data for 5 different brands, with products ranging from cosmetics to lifestyle clothing.
  
-## Deliverables
+## Output
 Please construct a python program that, when run, will do the following:
 
-* Construct predictions of {metric} by day for a horizon of one month at least. {metric} can be total number of orders and/or total number of orders from new customers and/or total sales.
+* Output predictions of {metric} by day for the next month at least. {metric} can be total number of orders and/or total number of orders from new customers and/or total sales.
 * Output, to a file, an appropriate quantitative estimate of the model's ability to correctly predict the metric
 
 You may use any python modules, libraries, or frameworks you require.
