@@ -32,9 +32,9 @@ You will find a couple of dimensions that are used to characterise the data. Spe
 The tenant_id is the id for the brand. We included data for 5 different brands, with products ranging from cosmetics to lifestyle clothing.
  
 ## Output
-Please construct a python program that, when run, will do the following:
+Please build a python program that, when run, will do the following:
 
-* Output predictions of {metric} by day for the next month at least. {metric} can be total number of orders and/or total number of orders from new customers and/or total sales.
+* Generate predictions of {metric} by day for the next month at least. {metric} can be total number of orders and/or total number of orders from new customers and/or total sales.
 * Output, to a file, an appropriate quantitative estimate of the model's ability to correctly predict the metric
 
 You may use any python modules, libraries, or frameworks you require.
