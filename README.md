@@ -16,6 +16,7 @@ Our users usually report orders & refunds on the day they were processed.
 You will find a couple of dimensions that are used to characterise the data. Specifically:
 |Column|Description|
 |------|-----------|
+|`tenant_id`|the id of the brand. We included data for 5 different brands, with products ranging from cosmetics to lifestyle clothing.|
 |`store`|the .myshopify.com domain the order was bought on. Brands can have one or multiple stores depending on the countries/continents where they sell.|
 |`timezone`|the timezone of the store|
 |`processed_at`|timestamp indicating when the order/refund was processed. The timestamp is in 'UTC'|
@@ -28,8 +29,6 @@ You will find a couple of dimensions that are used to characterise the data. Spe
 |`customer_lifetime_duration`|customer lifetime based on the first time they made an order|
 |`customer_total_spent`|how much a customer spent in $US during their lifetime|
 |`customer_first_order_date`|timestamp indicating when the customer made their first order. The timestamp is in 'UTC'|
-
-The tenant_id is the id of the brand. We included data for 5 different brands, with products ranging from cosmetics to lifestyle clothing.
  
 ## Output
 Please build a python program that, when run, will do the following:
