@@ -11,7 +11,7 @@ The problem you will work on as part of this exercise is based on a real Data Sc
 In completing this work, you should feel free to work in whatever way is typical for you and use whatever resources you would have regular access to as a member of our team. If you have any follow-up questions, feel free to send a message to charbel@polaranalytics.co you won't be penalized for that.
 
 ## Data Description
-In `data.csv` (available [here](https://drive.google.com/file/d/1gc7FrZ--HS20dD0DC6AfH1mh--kSp3V6/view?usp=sharing)) you will find data extracted from our main sales table. The table contains data from orders (order_id) and refunds (refund_id). 
+In `data.csv` (available [here](https://drive.google.com/file/d/1sjbq9ibJGRm1kA0FXbXzG-xHBBjSYzu6/view?usp=sharing)) you will find data extracted from our main sales table. The table contains data from orders (order_id) and refunds (refund_id). 
 Our users usually report orders & refunds on the day they were processed. 
 You will find a couple of dimensions that are used to characterise the data. Specifically:
 |Column|Description|
