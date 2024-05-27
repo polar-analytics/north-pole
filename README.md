@@ -6,13 +6,13 @@
 
 Welcome to our Data Science take-home exercise!
 
-The problem you will work on as part of this exercise is based on a real Data Science project at Polar ANalytics. The dataset is representative, though simulated. Note that the data is from real life customers and we are lucky that it's usually very clean. 
+The problem you will work on as part of this exercise is based on a real Data Science project at Polar Analytics. The dataset is representative, though simulated. Note that the data is from real life customers.
 
-In completing this work, you should feel free to work in whatever way is typical for you and use whatever resources you would have regular access to as a member of our team. If you have any follow-up questions, feel free to send a message to charbel@polaranalytics.co you won't be penalized for that.
+In completing this work, you should feel free to work in whatever way is typical for you and use whatever resources you would have regular access to as a member of our team. If you have any follow-up questions, feel free to send a message to charbel@polaranalytics.co
 
 ## Data Description
-In `data.csv` (available [here](https://drive.google.com/file/d/1sjbq9ibJGRm1kA0FXbXzG-xHBBjSYzu6/view?usp=sharing)) you will find data extracted from our main sales table. The table contains data from orders (order_id) and refunds (refund_id). 
-Our users usually report orders & refunds on the day they were processed. 
+In `data.csv` (available [here](https://drive.google.com/file/d/1sjbq9ibJGRm1kA0FXbXzG-xHBBjSYzu6/view?usp=sharing)) you will find data extracted from our main sales table. The table contains data from 
+
 You will find a couple of dimensions that are used to characterise the data. Specifically:
 |Column|Description|
 |------|-----------|
@@ -30,10 +30,17 @@ You will find a couple of dimensions that are used to characterise the data. Spe
 |`customer_total_spent`|how much a customer spent in $US during their lifetime|
 |`customer_first_order_date`|timestamp indicating when the customer made their first order. The timestamp is in 'UTC'|
  
+## Goal
+The goal is to build a feature that would help brands with inventory planning.
+Knowing when to buy stocks and ordering the right quantities is important for brands to avoid:
+    1- missing out on sales because of OOS
+    2- ordering too much (which costs money: warehouse seats, cash upfront)
+    
 ## Output
+
 Please build a python program that, when run, will do the following:
 
-* Generate predictions of {metric} by day for the next month at least. {metric} can be total number of orders and/or total number of orders from new customers and/or total sales.
+* Generate predictions of sales by sku for the next 60 days. {metric} can be total number of orders and/or total number of orders from new customers and/or total sales.
 * Output, to a file, an appropriate quantitative estimate of the model's ability to correctly predict the metric
 
 You may use any python modules, libraries, or frameworks you require.
