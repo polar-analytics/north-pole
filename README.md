@@ -11,7 +11,7 @@ The problem you will work on as part of this exercise is based on a real Data Sc
 In completing this work, you should feel free to work in whatever way is typical for you and use whatever resources you would have regular access to as a member of our team. If you have any follow-up questions, feel free to send a message to charbel@polaranalytics.co
 
 ## Data Description
-In `data.csv` (available [here](https://drive.google.com/file/d/1ZQ8Kj30A_heysk1NJlNLsFYJjkB7POQ0/view?usp=drive_link)) you will find data extracted from our main sales table. The table contains historical sales data by SKU with current levels of inventory.
+`data.csv` (available [here](https://drive.google.com/file/d/1ZQ8Kj30A_heysk1NJlNLsFYJjkB7POQ0/view?usp=drive_link)) contains historical sales data by SKU with current levels of inventory. 
  
 ## Goal
 The goal is to build a feature that would help brands with inventory planning.
