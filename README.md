@@ -32,8 +32,11 @@ You will find a couple of dimensions that are used to characterise the data. Spe
  
 ## Goal
 The goal is to build a feature that would help brands with inventory planning.
+
 Knowing when to buy stocks and ordering the right quantities is important for brands to avoid:
+   
     1- missing out on sales because of OOS
+    
     2- ordering too much (which costs money: warehouse seats, cash upfront)
     
 ## Output
