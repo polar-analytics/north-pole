@@ -6,7 +6,7 @@
 
 Welcome to our Data Science take-home exercise!
 
-The problem you will work on as part of this exercise is based on a real Data Science project at Polar Analytics. The dataset is representative, though simulated. Note that the data is from real life customers.
+The problem you will work on as part of this exercise is based on a real Data Science project at Polar Analytics. The dataset is representative, from a real life brand, though anonymised. 
 
 In completing this work, you should feel free to work in whatever way is typical for you and use whatever resources you would have regular access to as a member of our team. If you have any follow-up questions, feel free to send a message to charbel@polaranalytics.co
 
