@@ -26,11 +26,11 @@ Knowing when to buy stocks and ordering the right quantities is important for br
 
 Please build a python program that, when run, will do the following:
 
-* Generate predictions of quantity sold by sku for the next 60 days. 
-* Output, to a file, an appropriate quantitative estimate of the model's ability to correctly predict the metric
+* Generate predictions of quantity sold by sku to help achieve the goals mentioned above
+* Output an appropriate quantitative estimate of the model's ability to correctly predict the metric
 
 You may use any python modules, libraries, or frameworks you require.
-Along with the program, please submit your analysis in a jupyter notebook, reflecting:
+Along with the program, please submit your analysis (e.g. in a jupyter notebook), reflecting:
 * any steps you took before modeling the data (e.g., data cleaning)
 * the subjective design choices you made as part of the analysis (e.g., feature selection, model selection),
 * what trade-offs these choices reflect, and
