@@ -8,7 +8,7 @@ Welcome to our Data Science take-home exercise!
 
 The problem you will work on as part of this exercise is based on a real Data Science project at Polar Analytics. The dataset is representative, from a real life brand, though anonymised. 
 
-In completing this work, you should feel free to work in whatever way is typical for you and use whatever resources you would have regular access to as a member of our team. If you have any follow-up questions, feel free to send a message to charbel@polaranalytics.co
+In completing this work, you should feel free to work in whatever way is typical for you and use whatever resources you would have regular access to as a member of our team. If you have any follow-up questions, feel free to send a message to alexis@polaranalytics.co
 
 ## Data Description
 `data.csv` (available [here](https://drive.google.com/file/d/1ZQ8Kj30A_heysk1NJlNLsFYJjkB7POQ0/view?usp=drive_link)) contains historical sales data by SKU with current levels of inventory. 
@@ -36,7 +36,7 @@ Along with the program, please submit your analysis (e.g. in a jupyter notebook)
 * what trade-offs these choices reflect, and
 * what you might consider doing were you to spend more time on the challenge.
 
-Please, push your work to a private git repo, and share it with charbelrseif
+Please, push your work to a private git repo, and share it with these two users names: ALaks96 and charbelrseif
 
 [IMPORTANT] It should contain a README file explaining how to run your code.
 
