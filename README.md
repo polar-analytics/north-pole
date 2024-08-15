@@ -21,20 +21,26 @@ Knowing when to buy stocks and ordering the right quantities is important for br
     1- missing out on sales because of OOS
     
     2- ordering too much (which costs money: warehouse seats, cash upfront)
+
+## Requirements
+
+Please develop a Python program that accomplishes the following:
+
+- Demand Forecasting: generate SKU-level sales predictions to meet the goals outlined above. The model should provide predictions with sufficient lead time to allow for actionable decisions regarding inventory planning.
+
+- Actionable Insights & Recommendations: restocking Strategy: Based on your model’s predictions, provide specific recommendations on when to reorder each SKU and in what quantity.
+
+- Evaluation of Model Performance: Quantitatively assess the model’s accuracy in predicting SKU demand. Clearly communicate how well the model's predictions support the inventory planning goals.
+
+- Considerations for Implementation: discuss any subjective design choices you made, such as feature selection, model selection, and parameter tuning. Provide an analysis of trade-offs related to these choices. 
+
+## Deliverables
+
+- Python Program: a runnable script that generates the predictions and recommendations as outlined above. Include appropriate documentation/comments within the code.
+
+- Analysis Report: a Jupyter Notebook or equivalent presentation, detailing your approach, the rationale behind your decisions, and the performance evaluation. Ensure your analysis is comprehensive and communicates not only the technical aspects but also how the results can be used in a real-world inventory management context.
     
-## Output
 
-Please build a python program that, when run, will do the following:
-
-* Generate predictions of quantity sold by sku to help achieve the goals mentioned above
-* Output an appropriate quantitative estimate of the model's ability to correctly predict the metric
-
-You may use any python modules, libraries, or frameworks you require.
-Along with the program, please submit your analysis (e.g. in a jupyter notebook), reflecting:
-* any steps you took before modeling the data (e.g., data cleaning)
-* the subjective design choices you made as part of the analysis (e.g., feature selection, model selection),
-* what trade-offs these choices reflect, and
-* what you might consider doing were you to spend more time on the challenge.
 
 Please, push your work to a private git repo, and share it with these two users names: ALaks96 and charbelrseif
 
